@@ -14,7 +14,7 @@ GoSMS - Bulk SMS Application For Markting
 ### Installing
 Via Composer
 ```
-composer require levart/gosms-api 
+composer require levart/go-sms-api
 ```
 
 And Via Bash
