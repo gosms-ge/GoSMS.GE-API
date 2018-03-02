@@ -1,14 +1,14 @@
 {
-  "name": "shamim/ultimate-sms-api",
-  "description": "Ultimate SMS API is build for Ultimate SMS - Bulk SMS Application For Marketing",
+  "name": "levart/go-sms-api",
+  "description": "GoSMS API is build for GoSMS - Bulk SMS Application For Marketing",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Abul Kashem Shamim",
-      "email": "akasham67@gmail.com"
+      "name": "Levan Jmukhadze",
+      "email": "info@gosms.ge"
     }
   ],
   "autoload": {
