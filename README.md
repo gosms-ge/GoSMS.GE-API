@@ -1,3 +1,5 @@
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gosms-ge/GoSMS.GE-API/issues)
+
 [![PHP version](https://badge.fury.io/ph/levart%2Fgo-sms-api.svg)](https://badge.fury.io/ph/levart%2Fgo-sms-api)
 [![GitHub version](https://badge.fury.io/gh/gosms-ge%2FGoSMS.GE-API.svg)](https://badge.fury.io/gh/gosms-ge%2FGoSMS.GE-API)
 
