@@ -20,7 +20,7 @@ composer require levart/go-sms-api
 And Via Bash
 
 ```
-git clone https://github.com/levart/GoSMS-API.git
+git clone https://github.com/gosms-ge/GoSMS.GE-API.git
 ```
 
 ## Usage
