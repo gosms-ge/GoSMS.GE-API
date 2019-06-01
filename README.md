@@ -1,4 +1,5 @@
 [![PHP version](https://badge.fury.io/ph/levart%2Fgo-sms-api.svg)](https://badge.fury.io/ph/levart%2Fgo-sms-api)
+[![GitHub version](https://badge.fury.io/gh/gosms-ge%2FGoSMS.GE-API.svg)](https://badge.fury.io/gh/gosms-ge%2FGoSMS.GE-API)
 
 # GoSMS API
 
