@@ -1,5 +1,3 @@
-https://travis-ci.org/levart/GoSMS-API.svg?branch=master
-
 # GoSMS API
 
 
