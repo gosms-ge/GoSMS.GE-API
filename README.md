@@ -1,4 +1,7 @@
+https://travis-ci.org/levart/GoSMS-API.svg?branch=master
+
 # GoSMS API
+
 
 GoSMS API is build for GoSMS - Bulk SMS Application For Marketing
 
